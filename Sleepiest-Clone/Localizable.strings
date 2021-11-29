@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Sleepiest-Clone
+
+  Created by Kudzaiishe Mhou on 2021/11/28.
+  
+*/
+
+// MARK: Bullet Points
+"bulletPoint.bedTimeStories.text" = "100+ Bedtime Stories";
+"bulletPoint.soundscapes.text" = "70+ Soundscapes";
+"bulletPoint.sleepMeditations.text" = "20+ Sleep Meditations";
+"bulletPoint.sleepSounds.text" = "Create your own sleep sounds";
+"bulletPoint.newContent.text" = "New content every week";
+"bulletPoint.narrators.text" = "Award winning Narrators";
+"bulletPoint.appOfTheDay.text" = "Apple App of the Day";
+
+"bulletPoint.tickBullet.description.text" = "tick bullet point";
+"logo.sleepiest.description.text" = "Sleepiest+ Logo";
+
+"joinOthers.title" = "Join 29,087 others who joined this week";
+"freeTrial.text" = "7 Day Free Trial";
+"trySevenDays.free.year.text" = "Try 7 days free, then £28.99/year. Cancel anytime.";
+"trySevenDays.free.month.text" = "Try 7 days free, then £2.99/month. Cancel anytime.";
+"switchToMonthly.text" = " Switch to monthly";
+"switchToYearly.text" = " Switch to yearly";
+"button.tryAndSubscribe.text" = "Try Free & Subscribe";
+
+"loadingIndicator.greatSleep.description" = "Great sleep is just one step away...";
+"loadingIndicator.SleepBetter.description" = "Get ready to start sleeping better...";
+
+

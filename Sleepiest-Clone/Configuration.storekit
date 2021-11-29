@@ -1,0 +1,78 @@
+{
+  "identifier" : "34174585",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "6326C190",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.testing.iap1",
+      "referenceName" : "Sleepiest Premium - Monthly",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "28.99",
+      "familyShareable" : false,
+      "internalID" : "DCA746BC",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.testing.iap2",
+      "referenceName" : "Sleepiest Premium - Yearly",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "B45806BB",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.testing.autorenewablesubscription",
+      "referenceName" : "IPA3",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "10.99",
+      "familyShareable" : false,
+      "internalID" : "3333E1E0",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.testing.nonrenewingsubscription",
+      "referenceName" : "IPA4",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

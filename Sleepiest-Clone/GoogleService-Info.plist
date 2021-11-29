@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>871864402165-msc0j24sdig0ion0iku411l1s5jegmv2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.871864402165-msc0j24sdig0ion0iku411l1s5jegmv2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDcjtIq0ZXbNFmso5hIkMb1KccHnUIcM38</string>
+	<key>GCM_SENDER_ID</key>
+	<string>871864402165</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>test.Sleepiest-Clone</string>
+	<key>PROJECT_ID</key>
+	<string>sleepiest-clone</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sleepiest-clone.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:871864402165:ios:7795fe5cb4fc3e63d845bc</string>
+</dict>
+</plist>
