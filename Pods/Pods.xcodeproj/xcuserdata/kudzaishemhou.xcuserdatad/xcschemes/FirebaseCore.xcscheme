@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1250"
+   LastUpgradeVersion = "1240"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7B2AF5E2273BE826008DAB8E"
-               BuildableName = "Sleepiest-Clone.app"
-               BlueprintName = "Sleepiest-Clone"
-               ReferencedContainer = "container:Sleepiest-Clone.xcodeproj">
+               BlueprintIdentifier = "4402AFF83DBDC4DD07E198685FDC2DF2"
+               BuildableName = "FirebaseCore.framework"
+               BlueprintName = "FirebaseCore"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -40,19 +40,6 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7B2AF5E2273BE826008DAB8E"
-            BuildableName = "Sleepiest-Clone.app"
-            BlueprintName = "Sleepiest-Clone"
-            ReferencedContainer = "container:Sleepiest-Clone.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
-      <StoreKitConfigurationFileReference
-         identifier = "../Sleepiest-Clone/Configuration.storekit">
-      </StoreKitConfigurationFileReference>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -60,16 +47,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7B2AF5E2273BE826008DAB8E"
-            BuildableName = "Sleepiest-Clone.app"
-            BlueprintName = "Sleepiest-Clone"
-            ReferencedContainer = "container:Sleepiest-Clone.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
